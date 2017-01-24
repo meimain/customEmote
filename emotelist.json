@@ -3,8 +3,7 @@
     "emotes": {
         "§hmm": {
             "size": 20, 
-            "steps": 63,
-            "type": "animation",
+            "type": "image",
             "url": "http://i.imgur.com/xjMn8yA.png"
         },
         "}:)": {
