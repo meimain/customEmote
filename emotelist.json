@@ -1,21 +1,10 @@
 {
     "name": "Alpha Emotes",
     "emotes": {
-        "(hmm)": {
-            "size": 32, 
-            "type": "image",
-            "url": "https://i.imgur.com/xjMn8yA.png"
-        },
         "§hmm": {
             "size": 20, 
             "type": "image",
             "url": "https://i.imgur.com/xjMn8yA.png"
-        },
-        "}:)": {
-            "size": 20, 
-            "steps": 77,
-            "type": "animation",
-            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7516.bmp"
         }
     }
 }
