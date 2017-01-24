@@ -2,7 +2,7 @@
     "name": "Alpha Emotes",
     "emotes": {
         "§hmm": {
-            "size": 20, 
+            "size": 32, 
             "type": "image",
             "url": "http://i.imgur.com/xjMn8yA.png"
         },
